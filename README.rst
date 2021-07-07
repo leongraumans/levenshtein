@@ -15,7 +15,7 @@ Installation
 
 .. code:: bash
 
-   pip install levenshtein
+   pip install levenshtein-package
 
 Available methods
 -----------------

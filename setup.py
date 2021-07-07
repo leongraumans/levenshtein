@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-install_requires = ["numpy==1.20.3"]
+install_requires = ["numpy>=1.20.3"]
 
 tests_require = [
     "coverage==5.3",
