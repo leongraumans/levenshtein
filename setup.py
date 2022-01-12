@@ -15,7 +15,7 @@ tests_require = [
 
 setup(
     name="levenshtein-package",
-    version="0.0.1",
+    version="0.0.2",
     description="Package for calculating Levenshtein distance and similarity",
     long_description=open("README.rst", "r").read(),
     url="https://www.github.com/leongraumans/levenshtein/",
